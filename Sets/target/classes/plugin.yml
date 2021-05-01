@@ -1,0 +1,13 @@
+name: MyntoraSets
+version: 1.0-SNAPSHOT
+main: me.christo.sets.Sets
+api-version: 1.16
+authors: [ Christo ]
+description: Sets Plugin to hook into Myntora Prison
+website: http://www.devchristo.com/
+softdepend:
+  - HeadDatabase
+commands:
+  set:
+    description: Gives a player a set
+    aliases: [sets]

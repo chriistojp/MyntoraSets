@@ -1,0 +1,9 @@
+athena:
+  helmet:
+    name: "&5&lATHENA HELMET"
+  chestplate:
+    name: "&5&lATHENA CHESTPLATE"
+  leggings:
+    name: "&5&lATHENA LEGGINGS"
+  boots:
+    name: "&5&lATHENA BOOTS"
